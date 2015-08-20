@@ -2,6 +2,7 @@
     "name": "seb/portfolio",
     "license": "proprietary",
     "type": "project",
+    "description" : "My portfolio as a developer",
     "autoload": {
         "psr-4": {
             "": "src/",
