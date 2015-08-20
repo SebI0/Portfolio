@@ -1,0 +1,3 @@
+cockedey_app_homepage:
+    path:     /
+    defaults: { _controller: CockedeyAppBundle:Default:index }

@@ -1,0 +1,3 @@
+cockedey_app:
+    resource: "@CockedeyAppBundle/Resources/config/routing.yml"
+    prefix:   /
