@@ -1,4 +1,4 @@
-portfolio
+Portfolio
 =========
 
-A Symfony project created on August 20, 2015, 10:55 pm.
+My portfolio as a developer
